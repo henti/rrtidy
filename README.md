@@ -87,3 +87,10 @@ To call it as just `rrtidy`, link it into a directory on your `PATH`:
 ```sh
 ln -s ~/src/RapidBW/rrtidy.py ~/.local/bin/rrtidy
 ```
+
+## How it was built
+
+rrtidy was written with [Claude Code](https://claude.com/claude-code), Anthropic's AI coding assistant.
+I directed the work: I decided what the tool should do, reviewed each step, and spotted where it went wrong.
+
+Issues and PRs are welcome.
